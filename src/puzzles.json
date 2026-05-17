@@ -1,0 +1,227 @@
+[
+  {
+    "title": "Awake! February 8, 2004",
+    "grid": {
+      "across": {
+        "1": { "clue": "The place where Jesus had the blind man wash [4 words] (John 9:7)", "answer": "THEPOOLOFSILOAM", "row": 0, "col": 0 },
+        "7": { "clue": "At this location Satan challenged Jesus (Matthew 4:5, 6)", "answer": "TEMPLE", "row": 2, "col": 0 },
+        "8": { "clue": "A low-growing plant (Job 30:4)", "answer": "HERB", "row": 2, "col": 9 },
+        "10": { "clue": "People in this condition were brought to Jesus (Matthew 14:35)", "answer": "ILL", "row": 3, "col": 6 },
+        "11": { "clue": "Used for cleaning clothes and reducing such metals as lead and silver (Isaiah 1:25)", "answer": "LYE", "row": 3, "col": 12 },
+        "12": { "clue": "Make null (Esther 8:8)", "answer": "UNDO", "row": 4, "col": 2 },
+        "15": { "clue": "Hairy name given at birth (Genesis 25:25)", "answer": "ESAU", "row": 4, "col": 9 },
+        "17": { "clue": "His Son Gaddi was one of the 12 spies (Numbers 13:11)", "answer": "SUSI", "row": 5, "col": 0 },
+        "18": { "clue": "Country where letter to Hebrews was written (Hebrews 13:24)", "answer": "ITALY", "row": 5, "col": 5 },
+        "19": { "clue": "Golden pomegranate alternated with this (Exodus 28:34)", "answer": "BELL", "row": 5, "col": 11 },
+        "20": { "clue": "Jewish month Solomon completed Temple (1 Kings 6:38)", "answer": "BUL", "row": 6, "col": 3 },
+        "21": { "clue": "Father of Shimei (1 Kings 4:18)", "answer": "ELA", "row": 6, "col": 9 },
+        "22": { "clue": "Reacting to this,brothers met Paul on way to Rome (Acts 28:15)", "answer": "NEWS", "row": 7, "col": 0 },
+        "23": { "clue": "To shine with intense heat (Proverbs 26:21)", "answer": "GLOW", "row": 7, "col": 11 },
+        "24": { "clue": "He and Aaron supported Moses' hands (Exodus 17:12)", "answer": "HUR", "row": 8, "col": 3 },
+        "26": { "clue": "Insect noted for hardword and wisdom (Proverbs 6:6)", "answer": "ANT", "row": 8, "col": 9 },
+        "27": { "clue": "Female name", "answer": "OLGA", "row": 9, "col": 0 },
+        "29": { "clue": "Glorify (Psalm 107:32)", "answer": "EXTOL", "row": 9, "col": 5 },
+        "30": { "clue": "A nephew of Abraham (Genesis 22:22)", "answer": "HAZO", "row": 9, "col": 11 },
+        "32": { "clue": "Formerly (Genesis 41:31)", "answer": "ONCE", "row": 10, "col": 2 },
+        "34": { "clue": "If loves God yet hates his brother (1 John 4:20)", "answer": "LIAR", "row": 10, "col": 9 },
+        "36": { "clue": "Youth (1 Samuel 17:56)", "answer": "LAD", "row": 11, "col": 0 },
+        "37": { "clue": "A daughter of Zechariah (2 Kings 18:2)", "answer": "ABI", "row": 11, "col": 6 },
+        "38": { "clue": "Mode of transportation Jonah took (Jonah 1:3)", "answer": "SHIP", "row": 12, "col": 2 },
+        "39": { "clue": "Attract artfully (2 Peter 2:18)", "answer": "ENTICE", "row": 12, "col": 9 },
+        "40": { "clue": "Where Moses constructed the tabernacle [3 words] (1 Chronicles 21:29)", "answer": "INTHEWILDERNESS", "row": 14, "col": 0 }
+      },
+      "down": {
+        "1": { "clue": "The tenth part given to them [5 words] (Numbers 18:21)", "answer": "TOTHESONSOFLEVI", "row": 0, "col": 0 },
+        "2": { "clue": "Om road to this village, resurrected Jesus appeared to Cleopas here (Luke 24:13)", "answer": "EMMAUS", "row": 0, "col": 2 },
+        "3": { "clue": "Breads and cakes often moistened in this way (Exodus 29:23)", "answer": "OILED", "row": 0, "col": 4 },
+        "4": { "clue": "Bezaleel's chief assistant in constructing the tabernacle (Exodus 31:6)", "answer": "OHOLIAB", "row": 0, "col": 7 },
+        "5": { "clue": "Things imagined (Psalm 10:4)", "answer": "IDEAS", "row": 0, "col": 10 },
+        "6": { "clue": "Term Paul used for those laboring with him [3 words] (Philippians 4:3)", "answer": "MYFELLOWWORKERS", "row": 0, "col": 14 },
+        "9": { "clue": "Color of string above fringed edge (Numbers 15:38)", "answer": "BLUE", "row": 2, "col": 12 },
+        "13": {"clue": "City in the Judean wilderness (Joshua 15:62)","answer":"NIBSHAN", "row":4, "col":3},
+        "14": {"clue": "Cherubs and doors of Most Holy made of this wood [2 words] (1 Kings 6:23, 31)","answer":"OILTREE", "row":4 , "col":5} ,
+        "15": {"clue": "If anyone touches this, it is as if that one were touching this (Zechariah 2:8)","answer":"EYEBALL", "row":4 , "col":9},
+        "16": {"clue": "One of the officials who ministered to Ahasuerus (Esther 1:10)","answer":"ABAGTHA", "row":4 , "col":11},
+        "25": {"clue": "Jezebel's father (1 Kings 16:31)","answer":"ETHBAAL", "row":8 , "col":7},
+        "28": {"clue": "Paul acknowledged that there are many of these (1 Corinthians 8:5)","answer":"GODS", "row":9 , "col":2},
+        "31": {"clue": "What a native of the city of Arab is called-such as Paarai (2 Samuel 23:35)","answer":"ARBITE", "row":9 , "col":12},
+        "33": {"clue": "Pilate said that he did not find this in Jesus (Luke 23:4)","answer":"CRIME", "row":10 , "col":4},
+        "35": {"clue": "Anyone who came into this courtyard without being called was to be put to death (Esther 4:11)","answer":"INNER", "row":10 , "col":10}
+
+      }
+    }
+  },
+    {
+    "title": "Awake! April 8, 2005",
+    "grid": {
+      "across": {
+        "1": { "clue": "The disciples were rowing in this direction when they saw Jesus walking on the sea [2 words] (Mark 6:45-48)", "answer": "TOWARDBETHSAIDA", "row": 0, "col": 0 },
+        "7": { "clue": "The name that Jesus gave to Simon the son of John (John 1:42)", "answer": "CEPHAS", "row": 2, "col": 0 },
+        "10": { "clue": "One of the mighty men of David's military forces (1 Chronicles 11:29)", "answer": "ILAI", "row": 2, "col": 7 },
+        "11": { "clue": "Whoever wants to become the first among his brothers must become this to them (Mark 10:44)", "answer": "SLAVE", "row": 4, "col": 0 },
+        "12": { "clue": "Jehovah directed Abram to leave this city in Chaldea (Genesis 11:31; 12:1)", "answer": "UR", "row": 4, "col": 6 },
+        "13": { "clue": "Father of Shimei, one of the 12 deputies who provided food for the king (1 Kings 4:18)", "answer": "ELA", "row": 4, "col": 9 },
+        "14": { "clue": "Situation or occurrence thought to portend good or evil (1 Kings 20:33)", "answer": "OMEN", "row": 4, "col": 11 },
+        "16": { "clue": "A postexilic ancestor of Jesus Christ (Luke 3:25)", "answer": "NAHUM", "row": 5, "col": 0 },
+        "18": { "clue": "When you do this, said Jesus, focus on those who are poor (Luke 14:13)", "answer": "INVITE", "row": 5, "col": 7 },
+        "19": { "clue": "For the dead, this has already perished along with love (Ecclesiastes 9:6)", "answer": "HATE", "row": 6, "col": 11 },
+        "21": { "clue": "For Jehovah, a thousand years is the equivalent of this (2 Peter 3:8)", "answer": "DAY", "row": 7, "col": 5 },
+        "23": { "clue": "Mature people train their perceptive powers to distinguish right and wrong (Hebrews 5:14)", "answer": "USE", "row": 7, "col": 9 },
+        "25": { "clue": "A she-ass squeezed this part of Balaam against a wall (Numbers 22:25)", "answer": "FOOT", "row": 8, "col": 0 },
+        "28": { "clue": "Jesus surprised a Pharisee by not washing before this (Luke 11:38)", "answer": "DINNER", "row": 8, "col": 8 },
+        "29": { "clue": "The apronlike garment that the high priest wore (Exodus 28:6)", "answer": "EPHOD", "row": 9, "col": 1 },
+        "31": { "clue": "Remove from the surface (Isaiah 30:14)", "answer": "SKIM", "row": 10, "col": 0 },
+        "32": { "clue": "Seventh letter of the Greek alphabet", "answer": "ETA", "row": 10, "col": 5 },
+        "34": { "clue": "The second city conquered during the Israelite invasion of Canaan (Joshua 8:18, 19)", "answer": "AI", "row": 10, "col": 10 },
+        "35": { "clue": "Elijah was sent to a widow from this Phoenician city (Luke 4:26)", "answer": "SIDON", "row": 11, "col": 2 },
+        "36": { "clue": "A priest and ancestor of Adaiah (Nehemiah 11:12)", "answer": "AMZI", "row": 12, "col": 0 },
+        "37": { "clue": "A well dug by Isaac's servants (Genesis 26:21)", "answer": "SITNAH", "row": 12, "col": 7 },
+        "38": { "clue": "Jesus taught this principle on how to deal with those who hate us [3 words] (Matthew 5:44)", "answer": "LOVEYOURENEMIES", "row": 14, "col": 0 }
+      },
+      "down": {
+        "1": { "clue": "Collective name of God's chosen people in pre-Christian times [4 words] (Judges 1:1)", "answer": "THEISRAELITES", "row": 0, "col": 0 },
+        "2": { "clue": "Solomon's mother wove one for him on his marriage day (Song of Solomon 3:11)", "answer": "WREATH", "row": 0, "col": 2 },
+        "4": { "clue": "The second son of Joseph (Genesis 41:52)", "answer": "EPHRAIM", "row": 0, "col": 5 },
+        "5": { "clue": "A Levite son of Elkanah (1 Chronicles 6:25)", "answer": "ELKANAH", "row": 0, "col": 7 },
+        "6": { "clue": "Jacob said that his had lasted 130 years [2 words] (Genesis 47:9)", "answer": "ADAYSOFMYLIFE", "row": 0, "col": 9 }
+      }
+    }
+  },
+
+    {
+    "title": "Awake! August 8, 2004",
+    "grid": {
+      "across": {
+        "1": { "clue": "The sacred place of worship built by Solomon and later rebuilt by Zerubbabel [3 words] (Jeremiah 7:4)", "answer": "TEMPLEOFJEHOVAH", "row": 0, "col": 0 },
+        "7": { "clue": "To bring to bear with sustained effort (Luke 13:24)", "answer": "EXERT", "row": 2, "col": 0 },
+        "8": { "clue": "Samuel became a prophet during the lifetime of this high priest (1 Samuel 3:10-13)", "answer": "ELI", "row": 2, "col": 6 },
+        "10": { "clue": "The Amorite name for Mount Hermon (Deuteronomy 3:9)", "answer": "SENIR", "row": 2, "col": 10 },
+        "11": { "clue": "One of the cities that allied with Canaanite King Jabin (Joshua 11:2)", "answer": "DOR", "row": 4, "col": 6 },
+        "12": { "clue": "One of the six sons that Abraham had by his second wife, Keturah (Genesis 25:1, 2)", "answer": "ISHBAK", "row": 5, "col": 0 },
+        "13": { "clue": "One of Haman's ten sons (Esther 9:9, 10)", "answer": "ARISAI", "row": 5, "col": 8 },
+        "14": { "clue": "Jesus said that this wine is never put into old wineskins (Luke 5:37)", "answer": "NEW", "row": 6, "col": 5 },
+        "15": { "clue": "The sword that Ehud made to kill oppressive King Eglon of Moab (Judges 3:16)", "answer": "AGENT", "row": 7, "col": 3 },
+        "18": { "clue": "Acts 5:31 and Hebrews 12:2 refer to Jesus as this", "answer": "PERFECT", "row": 8, "col": 6 },
+        "20": { "clue": "In the absolute sense, only Jehovah is this (2 Samuel 22:31)", "answer": "FATTY", "row": 9, "col": 0 },
+        "21": { "clue": "Sheep in ancient Israel had this type of tail (Leviticus 3:9)", "answer": "EAGLE", "row": 9, "col": 7 },
+        "23": { "clue": "This powerful bird of prey is noted for its farsightedness (Job 39:27, 29)", "answer": "GOD", "row": 10, "col": 5 },
+        "25": { "clue": "This title is used in the Bible to refer to Jehovah, to others that are worshiped, and to men (Exodus 7:1)", "answer": "HILLEL", "row": 11, "col": 0 },
+        "26": { "clue": "His son Abdon judged Israel for eight years (Judges 12:13, 14)", "answer": "AHIJAH", "row": 11, "col": 8 },
+        "27": { "clue": "The prophet through whom Jehovah foretold the way Solomon's kingdom would be split (1 Kings 11:29-32)", "answer": "HEN", "row": 12, "col": 5 },
+        "28": { "clue": "Domestic fowl Jesus referred to when illustrating his desire for the people of Jerusalem (Luke 13:34)", "answer": "ENAIM", "row": 13, "col": 2 },
+        "30": { "clue": "It was near this site that Tamar disguised herself as a prostitute (Genesis 38:14)", "answer": "DIBRI", "row": 13, "col": 9 },
+        "31": { "clue": "Jesus called this “the lamp of the body” (Matthew 6:22)", "answer": "EYE", "row": 13, "col": 6 },
+        "33": { "clue": "Expression used to refer to a land that Jehovah would bring to shame [3 words] (Jeremiah 46:24)", "answer": "DAUGHTEROFEGYPT", "row": 14, "col": 0 }
+      },
+      "down": {
+        "1": { "clue": "Daniel was assured that his prophecy would be understood during this period [5 words] (Daniel 12:4)", "answer": "THELITTLETIME", "row": 0, "col": 0 }
+      }
+    }
+  },
+    {
+    "title": "Awake! August 8, 2005",
+    "grid": {
+      "across": {
+        "1": { "clue": "Jehovah required that the nation of Israel offer the best of these to him [3 words] (Exodus 23:19)", "answer": "FIRSTRIPEFRUITS", "row": 0, "col": 0 },
+        "8": { "clue": "One of the fortified cities in the territory of Naphtali (Joshua 19:38)", "answer": "IRON", "row": 2, "col": 0 },
+        "9": { "clue": "He is drawn into attacking God’s people (Ezekiel 38:10-12)", "answer": "GOG", "row": 2, "col": 6 },
+        "10": { "clue": "He held the apostle prisoner for two years in Caesarea (Acts 24:26, 27)", "answer": "FELIX", "row": 2, "col": 10 },
+        "11": { "clue": "What lepers in Israel were required to call out so as not to become contaminated (Leviticus 13:45)", "answer": "UNCLEAN", "row": 4, "col": 4 },
+        "12": { "clue": "Jacob stationed a pillar over Rachel's (Genesis 35:20)", "answer": "GRAVE", "row": 5, "col": 0 },
+        "14": { "clue": "Jehovah Israelites were led into this (Jeremiah 20:4)", "answer": "EXILE", "row": 5, "col": 9 },
+        "18": { "clue": "Retaliation in kind or degree (Jeremiah 20:10)", "answer": "REVENGE", "row": 7, "col": 0 },
+        "19": { "clue": "James said that jealousy is this and not the wisdom from above (James 3:15)", "answer": "EARTHLY", "row": 7, "col": 8 },
+        "21": { "clue": "A tree King Hiram provided for use in the construction of the temple (1 Kings 10:11, 12)", "answer": "ALMUG", "row": 9, "col": 0 },
+        "23": { "clue": "Jehovah commissioned Elijah to anoint Hazael as king of this nation (1 Kings 19:15)", "answer": "SYRIA", "row": 9, "col": 9 },
+        "24": { "clue": "He was the chief priest “for every matter of Jehovah” during Jehoshaphat's reign (2 Chronicles 19:11)", "answer": "AMARIAH", "row": 10, "col": 4 },
+        "27": { "clue": "Resurrect (Hebrews 11:19)", "answer": "RAISE", "row": 12, "col": 0 },
+        "28": { "clue": "Paul advised Timothy to train himself with godly devotion as this (1 Timothy 4:7)", "answer": "AIM", "row": 12, "col": 6 },
+        "29": { "clue": "Nebuchadnezzar defeated this Egyptian Pharaoh (Jeremiah 46:2)", "answer": "NECHO", "row": 12, "col": 10 },
+        "30": { "clue": "Abigail's sensible-ness avoided this rash act [3 words] (1 Samuel 25:31)", "answer": "SHEDDINGOFBLOOD", "row": 14, "col": 0 }
+      },
+      "down": {
+        "1": { "clue": "Alternate expression used in the Bible to indicate birds [2 words] (Genesis 1:26)", "answer": "FLYINGCREATURES", "row": 0, "col": 0 }
+      }
+    }
+  },
+
+    {
+    "title": "Awake! December 8, 2005",
+    "grid": {
+      "across": {
+        "1": { "clue": "Purchased cave of Machpelah for 400 silver shekels [2 words] (Genesis 23:17, 19, 20)", "answer": "BURIALPLACE", "row": 0, "col": 0 },
+        "8": { "clue": "To wear away by persistent biting (Revelation 16:10)", "answer": "GNAW", "row": 2, "col": 0 },
+        "10": { "clue": "One of the seven sons of Noah's son Japheth (Genesis 10:2)", "answer": "IEZER", "row": 3, "col": 0 },
+        "11": { "clue": "Son of Abishur and Abihail of the tribe of Judah (1 Chronicles 2:29)", "answer": "TUBAL", "row": 3, "col": 6 },
+        "12": { "clue": "Borne or put on (Luke 8:27)", "answer": "GOB", "row": 3, "col": 12 },
+        "13": { "clue": "A city in the mountainous region of Judah (Joshua 15:49)", "answer": "DANNAH", "row": 5, "col": 0 },
+        "16": { "clue": "This fragrant shrub is mentioned only in the Song of Solomon (Song of Solomon 1:14)", "answer": "HENNA", "row": 5, "col": 7 },
+        "21": { "clue": "Incapable (Acts 21:34)", "answer": "UNABLE", "row": 7, "col": 0 },
+        "23": { "clue": "Paul encountered these Greek philosophers when preaching at Athens (Acts 17:16-21)", "answer": "STOICS", "row": 7, "col": 7 },
+        "27": { "clue": "This broke out in heaven following the birth of the Kingdom (Revelation 12:7)", "answer": "WAR", "row": 11, "col": 0 },
+        "30": { "clue": "This wild animal is mentioned only once in the Scriptures (Psalm 80:13)", "answer": "BOAR", "row": 12, "col": 0 },
+        "31": { "clue": "It is easier for a camel to get through this [3 words] (Matthew 19:24)", "answer": "ANEEDLESEYE", "row": 14, "col": 2 }
+      },
+      "down": {
+        "1": { "clue": "Jesus mentioned they 'strain out the gnat but gulp down the camel' [2 words] (Matthew 23:24)", "answer": "BLINDGUIDES", "row": 0, "col": 0 }
+      }
+    }
+  },
+
+    {
+    "title": "Awake! February 8, 2005",
+    "grid": {
+      "across": {
+        "1": { "clue": "Town where Jesus performed his first miracle (John 2:11)", "answer": "CANA", "row": 0, "col": 0 },
+        "5": { "clue": "Because God replaced fleshly Israel, spiritual Israel can be called this [2 words] (1 Peter 2:9)", "answer": "CHOSENRACE", "row": 0, "col": 5 },
+        "12": { "clue": "Although he judged Israel for 40 years, his sons were 'good-for-nothing men' (1 Samuel 2:12)", "answer": "ELI", "row": 2, "col": 6 },
+        "17": { "clue": "Jesus told the Pharisees they interpret the appearance of this yet could not interpret signs of the times (Matthew 16:3)", "answer": "SKY", "row": 5, "col": 6 },
+        "25": { "clue": "Jacob's son; his son was devoured by a wild beast (Genesis 37:31-33)", "answer": "DAN", "row": 9, "col": 12 },
+        "34": { "clue": "The yarns that extend lengthwise in a loom (Isaiah 38:12)", "answer": "WARP", "row": 14, "col": 0 },
+        "35": { "clue": "One of three forms of punishment God offered David [2 words] (2 Samuel 24:12-15)", "answer": "PESTILENCE", "row": 14, "col": 5 }
+      },
+      "down": {
+        "1": { "clue": "Two books of the Hebrew Scriptures bear this name (Amos 1:1)", "answer": "CHRONICLES", "row": 0, "col": 0 }
+      }
+    }
+  },
+
+    {
+    "title": "Awake! June 8, 2005",
+    "grid": {
+      "across": {
+        "1": { "clue": "Vessels of this type were used for trade in the days of King Solomon [3 words] (1 Kings 10:22)", "answer": "SHIPSOFTARSHISH", "row": 0, "col": 0 },
+        "7": { "clue": "What the apostle Paul said that he had run to the finish when near the end of his life (2 Timothy 4:7)", "answer": "COURSE", "row": 2, "col": 0 },
+        "11": { "clue": "Timothy's mother, from whom he received an excellent spiritual education (2 Timothy 1:5)", "answer": "EUNICE", "row": 4, "col": 9 },
+        "18": { "clue": "The word Jesus used to describe the effort of a camel's passing through the eye of a needle (Matthew 19:24)", "answer": "EASIER", "row": 7, "col": 0 },
+        "21": { "clue": "Reaches a specified situation [2 words] (Proverbs 14:13)", "answer": "ENDSUP", "row": 9, "col": 0 },
+        "30": { "clue": "Paul recommended that Christian women display this by the way they adorned themselves [3 words] (1 Timothy 2:9)", "answer": "SOUNDNESSOFMIND", "row": 14, "col": 0 }
+      },
+      "down": {
+        "1": { "clue": "Two were needed to support each of the tabernacle's panel frames [2 words] (Exodus 26:19)", "answer": "SOCKETS", "row": 0, "col": 0 }
+      }
+    }
+  },
+
+    {
+    "title": "Awake! October 8, 2005",
+    "grid": {
+      "across": {
+        "1": { "clue": "Pharaoh said that the Israelites should dwell in this region, “the very best of the land” of Egypt (Genesis 47:6)", "answer": "GOSHEN", "row": 0, "col": 0 },
+        "5": { "clue": "A sentiment that stirs up contentions (Proverbs 10:12)", "answer": "HATRED", "row": 0, "col": 7 },
+        "10": { "clue": "Jehovah did this with his hand when making an oath (Ezekiel 36:7)", "answer": "RAISED", "row": 2, "col": 0 },
+        "11": { "clue": "Island off the coast of Turkey mentioned in the account of Paul's third missionary journey (Acts 21:1)", "answer": "RHODES", "row": 2, "col": 7 },
+        "15": { "clue": "Mount Sinai, upon which Moses received the Law covenant, was located in this land (Galatians 4:25)", "answer": "ARABIA", "row": 5, "col": 0 },
+        "17": { "clue": "The son of Adam and Eve from whom Jesus descended (Luke 3:38)", "answer": "SETH", "row": 5, "col": 7 },
+        "25": { "clue": "King Hezekiah's mother (2 Kings 18:2)", "answer": "ABI", "row": 9, "col": 0 },
+        "31": { "clue": "Another pronunciation of the divine name (Exodus 6:3, footnote)", "answer": "YAHWEH", "row": 14, "col": 0 },
+        "32": { "clue": "Founder of one of the divisions of the tribe of Issachar (Numbers 26:24)", "answer": "JASHUB", "row": 14, "col": 9 }
+      },
+      "down": {
+        "1": { "clue": "One of King David's six older brothers (1 Chronicles 2:13)", "answer": "ELIAB", "row": 0, "col": 0 },
+        "2": { "clue": "Name given to the well over which the servants of Isaac and the shepherds of Gerar quarreled (Genesis 26:20)", "answer": "ESEK", "row": 0, "col": 2 },
+        "27": { "clue": "Jesus performed his first miracle, that of turning water into wine, in this town (John 2:11)", "answer": "CANA", "row": 11, "col": 14 }
+      }
+    }
+  }
+]
