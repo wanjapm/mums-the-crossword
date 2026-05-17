@@ -1,6 +1,6 @@
 # Mums The Crossword
 
-I wanted to make for my mum an app where she can play croosword puzzles from Old Awake! Magazines
+I wanted to make for my mum an app where she can play crossword puzzles from Old Awake! Magazines from wol.jw.org.
 
 
 ## Crossword Puzzles
