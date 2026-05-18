@@ -1,6 +1,6 @@
 # Mums The Crossword
 
-I wanted to make for my mum an app where she can play crossword puzzles from Old Awake! Magazines from [WOL](https://wol.jw.org) wol.jw.org.
+I wanted to make for my mum an app where she can play crossword puzzles from Old Awake! Magazines from [WOL](https://wol.jw.org)
 
 
 ## Crossword Puzzles
@@ -17,4 +17,4 @@ I wanted to make for my mum an app where she can play crossword puzzles from Old
  ** - incomplete puzzle
 
  ### Crossword component
- Based on @jaredreisinger/react-crossword (https://github.com/JaredReisinger/react-crossword)
+ Based on [@jaredreisinger/react-crossword](https://github.com/JaredReisinger/react-crossword)
