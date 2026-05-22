@@ -11,23 +11,52 @@ function App() {
   const crosswordRef = useRef();
 
   const handleClueSelected = (direction, number) => {
-    const clueObj = data[currentPuzzle].grid[direction.toLowerCase()][number];
-    const clueText = clueObj.clue;
-    const match = clueText.match(/\(([^)]+)\)/);
+  const clueObj = data[currentPuzzle].grid[direction.toLowerCase()][number];
+  const clueText = clueObj.clue;
+  const match = clueText.match(/\(([^)]+)\)/); // Finds the text in parentheses
+
+  if (match) {
+    const fullRef = match[1]; // e.g., "Isaiah 1:25" or "1 Chronicles 21:29"
     
-    if (match) {
-      const ref = match[1];
-      const url = `https://wol.jw.org/en/wol/l/r1/lp-e?q=${ref.replace(/ /g, '+')}`;
+    // 1. Separate Book Name and Numbers
+    const refParts = fullRef.match(/^(.+?)\s(\d+):(\d+)/);
+    if (refParts) {
+      const bookName = refParts[1].toLowerCase().trim();
+      const chapter = refParts[2];
+      const verse = refParts[3];
+
+      // 2. Map Book Name to Number (NWT Order)
+      const bookMap = {
+        "genesis": 1, "exodus": 2, "leviticus": 3, "numbers": 4, "deuteronomy": 5, "joshua": 6, "judges": 7, "ruth": 8, "1 samuel": 9, "2 samuel": 10, "1 kings": 11, "2 kings": 12, "1 chronicles": 13, "2 chronicles": 14, "ezra": 15, "nehemiah": 16, "esther": 17, "job": 18, "psalms": 19, "proverbs": 20, "ecclesiastes": 21, "song of solomon": 22, "isaiah": 23, "jeremiah": 24, "lamentations": 25, "ezekiel": 26, "daniel": 27, "hosea": 28, "joel": 29, "amos": 30, "obadiah": 31, "jonah": 32, "micah": 33, "nahum": 34, "habakkuk": 35, "zephaniah": 36, "haggai": 37, "zechariah": 38, "malachi": 39, "matthew": 40, "mark": 41, "luke": 42, "john": 43, "acts": 44, "romans": 45, "1 corinthians": 46, "2 corinthians": 47, "galatians": 48, "ephesians": 49, "philippians": 50, "colossians": 51, "1 thessalonians": 52, "2 thessalonians": 53, "1 timothy": 54, "2 timothy": 55, "titus": 56, "philemon": 57, "hebrews": 58, "james": 59, "1 peter": 60, "2 peter": 61, "1 john": 62, "2 john": 63, "3 john": 64, "jude": 65, "revelation": 66
+      };
+
+      const bookNum = bookMap[bookName];
       
-      // We now pull the 'verseText' from the JSON if you've added it
-      setModalVerse({ 
-        open: true, 
-        ref: ref, 
-        text: clueObj.verseText || "Verse text coming soon...", 
-        url: url 
-      });
+      if (bookNum) {
+        // 3. Format Strings with Leading Zeros
+        const pad = (num) => num.toString().padStart(3, '0');
+        const bookStr = bookNum.toString(); // Book num is not padded
+        const chapStr = pad(chapter);
+        const verseStr = pad(verse);
+
+        // 4. Construct the precise bi12 URL
+        const finalUrl = `https://www.jw.org/en/library/bible/bi12/books/${bookName.replace(/ /g, '-')}/${chapter}/#v${bookStr}${chapStr}${verseStr}`;
+        
+        setModalVerse({ 
+          open: true, 
+          ref: fullRef, 
+          text: clueObj.verseText || "Verse text loading...", 
+          url: finalUrl 
+        });
+        return;
+      }
     }
-  };
+    
+    // Fallback if regex fails (original simpler link)
+    const fallbackUrl = `https://wol.jw.org/en/wol/l/r1/lp-e?q=${match[1].replace(/ /g, '+')}`;
+    setModalVerse({ open: true, ref: match[1], text: clueObj.verseText || "Verse text loading...", url: fallbackUrl });
+  }
+};
 
   const onCorrect = () => setIsFinished(true);
 
